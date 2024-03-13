@@ -1,5 +1,6 @@
-user:
-  id: 1
-  name: Yoni Herrera
-  email: yoni.herrera@gmail.com
-  age: 33
+application:
+  user:
+    id: 1
+    name: Yoni Herrera
+    email: yoni.herrera@gmail.com
+    age: 33
